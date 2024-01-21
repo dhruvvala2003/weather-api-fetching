@@ -1,0 +1,4 @@
+1564b65866b67420c14220c39b6379f9
+
+
+https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=1564b65866b67420c14220c39b6379f9&units=metric
